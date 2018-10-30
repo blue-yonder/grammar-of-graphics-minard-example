@@ -1,4 +1,4 @@
-# Recreation of Charles Minard's Data Visualisation from 1869 of Napoleons Russian Campaign from 1869
+# Recreation of Charles Minard's Data Visualisation from 1869 of Napoleons Russian Campaign
 
 Code used in the [PyCon.DE 2018 Talk - Grammar of Graphics in Python](https://speakerdeck.com/mahrz24/grammar-of-graphics-in-python). To create the charts simply run
 
